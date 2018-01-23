@@ -18,8 +18,10 @@ html {
   right: 0;
 }
 
-@media only screen and (max-width: ) {
-
+@media only screen and (max-width: 406px) {
+  #dolphin {
+    top: 410px;
+  }
 }
 
 /* Write your solution here */
