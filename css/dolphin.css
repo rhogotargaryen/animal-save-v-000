@@ -63,5 +63,7 @@ html {
 
   #dolphin {
     top: 160px;
+    transform: rotate(-45deg);
+    
   }
 }
