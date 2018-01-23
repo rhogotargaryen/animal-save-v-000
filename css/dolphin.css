@@ -91,3 +91,11 @@ html {
     transform: rotate(-225deg);
   }
 }
+
+@media only screen and (max-width: 696px) and (min-width: 650px) {
+
+  #dolphin {
+    top: 240px;
+    transform: rotate(-225deg);
+  }
+}
