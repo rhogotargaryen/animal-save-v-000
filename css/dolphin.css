@@ -87,7 +87,7 @@ html {
 @media only screen and (max-width: 742px) and (min-width: 696px) {
 
   #dolphin {
-    top: 240px;
+    top: 250px;
     transform: rotate(-225deg);
   }
 }
@@ -95,7 +95,7 @@ html {
 @media only screen and (max-width: 696px) and (min-width: 650px) {
 
   #dolphin {
-    top: 280px;
+    top: 300px;
     transform: rotate(-270deg);
   }
 }
@@ -107,4 +107,3 @@ html {
     transform: rotate(-270deg);
   }
 }
-
