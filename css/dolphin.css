@@ -23,21 +23,21 @@ html {
 @media only screen and (max-width: 1090px) and (min-width: 1044px) {
 
   #dolphin {
-    top: 370px;
+    top: 360px;
   }
 }
 
 @media only screen and (max-width: 1044px) and (min-width: 998px) {
 
   #dolphin {
-    top: 330px;
+    top: 320px;
   }
 }
 
 @media only screen and (max-width: 998px) and (min-width: 952px) {
 
   #dolphin {
-    top: 300px;
+    top: 290px;
   }
 }
 
@@ -45,7 +45,7 @@ html {
 @media only screen and (max-width: 952px) and (min-width: 916px) {
 
   #dolphin {
-    top: 270px;
+    top: 260px;
   }
 }
 
@@ -53,6 +53,6 @@ html {
 @media only screen and (max-width: 916px) and (min-width: 870px) {
 
   #dolphin {
-    top: 240px;
+    top: 230px;
   }
 }
