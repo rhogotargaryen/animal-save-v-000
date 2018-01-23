@@ -80,7 +80,7 @@ html {
 
   #dolphin {
     top: 200px;
-    transform: rotate(-135deg);
+    transform: rotate(-180deg);
   }
 }
 
