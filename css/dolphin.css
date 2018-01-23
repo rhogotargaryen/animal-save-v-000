@@ -24,4 +24,10 @@ html {
   }
 }
 
+@media only screen and (min-width: 460px) {
+  #dolphin {
+    top: 354px;
+  }
+}
+
 /* Write your solution here */
