@@ -20,7 +20,6 @@ html {
 
 @media only screen and (min-width: 406px) {
   #dolphin {
-    transform: scaleX(-1);
     top: 380px;
   }
 }
