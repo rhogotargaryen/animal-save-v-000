@@ -13,6 +13,6 @@ html {
 @media only screen and (max-width:1310px) {
 
   #ostrich {
-    top: 0;
+    position: relative;
   }
 }
