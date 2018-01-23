@@ -79,7 +79,7 @@ html {
 @media only screen and (max-width: 788px) and (min-width: 742px) {
 
   #dolphin {
-    top: 160px;
+    top: 200px;
     transform: rotate(-135deg);
   }
 }
