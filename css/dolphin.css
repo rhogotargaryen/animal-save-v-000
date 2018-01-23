@@ -37,7 +37,7 @@ html {
 @media only screen and (max-width: 998px) and (min-width: 952px) {
 
   #dolphin {
-    top: 290px;
+    top: 280px;
   }
 }
 
@@ -45,7 +45,7 @@ html {
 @media only screen and (max-width: 952px) and (min-width: 916px) {
 
   #dolphin {
-    top: 260px;
+    top: 240px;
   }
 }
 
@@ -54,7 +54,7 @@ html {
 
   #dolphin {
     transform: rotate(-45deg);
-    top: 230px;
+    top: 200px;
   }
 }
 
@@ -62,6 +62,6 @@ html {
 @media only screen and (max-width: 870px) and (min-width: 834px) {
 
   #dolphin {
-    top: 200px;
+    top: 160px;
   }
 }
