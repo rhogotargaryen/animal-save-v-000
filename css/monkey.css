@@ -13,15 +13,6 @@ html {
 @media only screen and (max-width: 1090px) and (min-width: 406px) {
 
   #monkey {
-    top: 240px;
-  }
-}
-
-
-@media only screen and (max-width: 696px) and (min-width: 650px) {
-
-  #dolphin {
-    top: 280px;
-    transform: rotate(-270deg);
+    top: 100px;
   }
 }
