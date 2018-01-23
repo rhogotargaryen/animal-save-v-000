@@ -20,7 +20,8 @@ html {
 
 
 /* Write your solution here */
-@media only screen and (max-width: 1090px) and (min-width: 1044) {
+@media only screen and (max-width: 1090px) and (min-width: 1044px) {
+
   #dolphin {
     top: 370px;
   }
