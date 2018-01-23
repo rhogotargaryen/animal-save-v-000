@@ -11,7 +11,7 @@ html {
 @media only screen and (min-width: 800px) {
 
   #bear {
-    transform: rotate(180deg); 
+    transform: rotate(90deg);
     left: 800px;
   }
 
