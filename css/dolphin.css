@@ -26,3 +26,10 @@ html {
     top: 370px;
   }
 }
+
+@media only screen and (max-width: 1044px) and (min-width: 998px) {
+
+  #dolphin {
+    top: 340px;
+  }
+}
